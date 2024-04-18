@@ -15,7 +15,7 @@ COVID-Inclusive Data: Loaded more recent data including the COVID period to unde
 Splitting Data: Divided the pre-COVID data into training and testing sets.
 Error Metrics Calculation: Computed MAPE and RMSE to evaluate the accuracy of the model on the test data.
 5) Feature Engineering: Transformed date columns to datetime format in the COVID-inclusive dataset and created additional regression columns to capture COVID-related changes.
-6) Model Configuration: Set up the Prophet model with specific parameters:
+6) Model Configuration: Set up the Prophet model with specific parameters.
 Regression with COVID: Treated COVID as a regressor to account for its impact.
 Seasonality Mode: Used a multiplicative approach to handle seasonal variations.
 Growth Mode: Applied a logistic growth model to forecast the change in customer numbers.
