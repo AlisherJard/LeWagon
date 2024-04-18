@@ -11,7 +11,7 @@ This project was completed as part of the final assignment for the Le Wagon boot
 Integrated Google Colab for running Python notebooks, ensuring a seamless cloud-based environment for data manipulation and model training.
 
 2) Data Loading:
-Pre-COVID Data: Loaded historical data excluding the COVID period from Google BigQuery to analyze trends unaffected by the pandemic.
+(Pre-COVID Data) Loaded historical data excluding the COVID period from Google BigQuery to analyze trends unaffected by the pandemic.
 COVID-Inclusive Data: Loaded more recent data including the COVID period to understand the impact of the pandemic on customer trends.
 
 3) Data Visualization:
