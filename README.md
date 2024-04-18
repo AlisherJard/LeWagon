@@ -6,6 +6,7 @@ This project was completed as part of the final assignment for the Le Wagon boot
 
 
 ### Workflow Summary:
+
 1) Authentication: 
 Integrated Google Colab for running Python notebooks, ensuring a seamless cloud-based environment for data manipulation and model training.
 
@@ -14,7 +15,7 @@ Pre-COVID Data: Loaded historical data excluding the COVID period from Google Bi
 COVID-Inclusive Data: Loaded more recent data including the COVID period to understand the impact of the pandemic on customer trends.
 
 3) Data Visualization:
- Used Plotly to create interactive charts for both pre-COVID and COVID-inclusive datasets, providing a clear visual understanding of the data trends.
+Used Plotly to create interactive charts for both pre-COVID and COVID-inclusive datasets, providing a clear visual understanding of the data trends.
 
 4) Data Preparation:
 Splitting Data: Divided the pre-COVID data into training and testing sets.
