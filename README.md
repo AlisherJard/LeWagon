@@ -7,7 +7,7 @@ This project was completed as part of the final assignment for the Le Wagon boot
 
 ### Workflow Summary:
 
-1) Authentication: 
+1) **Authentication:** 
 Integrated Google Colab for running Python notebooks, ensuring a seamless cloud-based environment for data manipulation and model training.
 
 2) Data Loading:
